@@ -11,6 +11,6 @@ Bootstraping follows simple steps for generating another samples that resembles 
 1. Treat the original sample as if it were the population.
 2. Draw from the sample, at random with replacement, the same number of times as the original sample size.
 
-Note: resampling the same number of times as original first sample size important. This is because the variability of an estimated depends on the size of the sample.  
+Note: resampling the same number of times (n) as the original (first sample size) is important. This is because the variability of an estimated sample depends on the size of the sample itself.  
 
-Here we will use datascience library to implement bootstraping.
+In this exercise I have used datascience library to complete the bootstraping.
